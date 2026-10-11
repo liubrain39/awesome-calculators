@@ -74,6 +74,8 @@ Is your project mentioned in this list? See [mentioned.md](https://github.com/xx
 - [Desmos](https://www.desmos.com/) - Online set of tools related to math, including a set of calculators, exams and more.
 - [Geogebra](https://www.geogebra.org/) - Free online math tools for graphing, geometry, 3D, and more. Includes interactive graphical calculator.
 - [Prix par Booster](https://bundle30anspokemon.space/) - French calculator comparing delivered prices per booster across two offers, with exact quantities and shipping costs.
+- [Jours entre deux dates](https://jours-entre-deux-dates.vercel.app/) - French calendar-date calculator separating elapsed and inclusive days, with weekday/weekend counts and local processing.
+
 
 ## Resources
 
